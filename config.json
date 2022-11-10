@@ -1,0 +1,6 @@
+{
+"url-backend": "127.0.0.1",
+"port": 9999,
+  "data-db-connection": "mongodb+srv://usuario-pruebas:2JWhCes1jdGEbRMY@cluster0.83ru4eq.mongodb.net/?retryWrites=true&w=majority",
+  "name-db": "bd-elecciones"
+}
